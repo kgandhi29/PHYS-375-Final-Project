@@ -7,7 +7,8 @@
   - Adds a solve_star_for_Tc function which finds the right rho_c for a chosen T_c using the luminostiy_surface_error function
   - Adds a build_main_sequence function which constructs a collection of stellar models by solving for a star for each Tc in Tc_Values
   - Note: This follows the procedure described in the project description section 2.2
-#03-27 Ben uploaded a 3rd version (complete) of the standard MS code which includes:
+
+# 03-27 Ben uploaded a 3rd version (complete) of the standard MS code which includes:
   - No changes to the code from V2
   - Adds an effective_temperature_from_surface function to quickly compute Teff for the HR diagram
   - Adds a convective_from_dlogP_dlogT function to determine convective zones for the diagrams
