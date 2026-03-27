@@ -7,3 +7,19 @@
   - Adds a solve_star_for_Tc function which finds the right rho_c for a chosen T_c using the luminostiy_surface_error function
   - Adds a build_main_sequence function which constructs a collection of stellar models by solving for a star for each Tc in Tc_Values
   - Note: This follows the procedure described in the project description section 2.2
+#03-27 Ben uploaded a 3rd version (complete) of the standard MS code which includes:
+  - No changes to the code from V2
+  - Adds an effective_temperature_from_surface function to quickly compute Teff for the HR diagram
+  - Adds a convective_from_dlogP_dlogT function to determine convective zones for the diagrams
+  - Adds a load_reference_star_file function to load the low mass and high mass example stars' data and converts to SI units (works the load_example_stars_once function)
+  - Adds a "Plotting Helpers" section which includes a bunch of plotting functions to create the following diagrams:
+        - Model HR diagram
+        - L-M Relation diagram
+        - R-M Relation diagram
+        A set for each high and Low mass star:
+        - rho/rho_c, T,T_c, M/M_star, L/L_star vs. r/R_star plot
+        - Opacity plot
+        - Density profile plot
+        - Pressure Components plot
+        - Local Luminosity Production plot (plots total, PP, and CNO)
+        - Enclosed Mass and Luminosity plot
