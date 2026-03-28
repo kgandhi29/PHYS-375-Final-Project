@@ -24,3 +24,5 @@
         - Pressure Components plot
         - Local Luminosity Production plot (plots total, PP, and CNO)
         - Enclosed Mass and Luminosity plot
+  # 03-28 Rachel uploaded V4 of code
+  -  fixed some plotting formatting issues (CPU maxed out so I can't finish the formatting until tomorrow)
