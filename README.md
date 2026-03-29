@@ -28,3 +28,5 @@
   -  fixed some plotting formatting issues (CPU maxed out so I can't finish the formatting until tomorrow)
 # 03-29 Khushi updated DM changes
   - will add DM changes to new V3/4 of the code today with descriptions
+# 03-29 Rachel finished plot formatting
+  - plots are correctly formatted and ready for DM integration and presentation
