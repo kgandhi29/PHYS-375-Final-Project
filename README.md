@@ -26,3 +26,5 @@
         - Enclosed Mass and Luminosity plot
   # 03-28 Rachel uploaded V4 of code
   -  fixed some plotting formatting issues (CPU maxed out so I can't finish the formatting until tomorrow)
+# 03-29 Khushi updated DM changes
+  - will add DM changes to new V3/4 of the code today with descriptions
