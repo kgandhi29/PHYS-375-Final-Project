@@ -30,3 +30,4 @@
   - will add DM changes to new V3/4 of the code today with descriptions
 # 03-29 Rachel finished plot formatting
   - plots are correctly formatted and ready for DM integration and presentation
+# 03-29 Ben uploaded a V6 which addresses the incorrect MS from V3, adds the changes from V5 (Rachel) and alos includes the DM heating (Khushi). Note: Issues include long runtime, weird R-M relation plot for MS, and odd behaviour for the DM heating models. Images of the plots generated from V6 have been provided here so you do not have to run the code.
