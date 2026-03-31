@@ -33,3 +33,5 @@
 # 03-29 Ben uploaded a V6
   - Addresses the incorrect MS from V3, adds the changes from V5 (Rachel) and also includes the DM heating (Khushi). 
   - Note: Issues include long runtime, weird R-M relation plot for MS, and odd behaviour for the DM heating models. Images of the plots generated from V6 have been provided here so you do not have to run the code.
+# 03-30 Ben uploaded a V7 (Final Version) along with all the plots
+  - This version includes all the components required by the project.
